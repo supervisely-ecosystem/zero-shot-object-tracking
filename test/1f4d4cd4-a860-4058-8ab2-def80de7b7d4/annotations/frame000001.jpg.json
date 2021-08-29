@@ -1,0 +1,86 @@
+{
+  "description": "",
+  "size": {
+    "height": 1440,
+    "width": 2560
+  },
+  "tags": [],
+  "objects": [
+    {
+      "classTitle": "lemon",
+      "description": "",
+      "tags": [
+        {
+          "name": "confidence",
+          "value": 0.9629
+        }
+      ],
+      "points": {
+        "exterior": [
+          [
+            1143,
+            945
+          ],
+          [
+            1399,
+            1115
+          ]
+        ],
+        "interior": []
+      },
+      "geometryType": "rectangle",
+      "shape": "rectangle"
+    },
+    {
+      "classTitle": "lemon",
+      "description": "",
+      "tags": [
+        {
+          "name": "confidence",
+          "value": 0.9653
+        }
+      ],
+      "points": {
+        "exterior": [
+          [
+            1595,
+            340
+          ],
+          [
+            1909,
+            509
+          ]
+        ],
+        "interior": []
+      },
+      "geometryType": "rectangle",
+      "shape": "rectangle"
+    },
+    {
+      "classTitle": "lemon",
+      "description": "",
+      "tags": [
+        {
+          "name": "confidence",
+          "value": 0.9673
+        }
+      ],
+      "points": {
+        "exterior": [
+          [
+            340,
+            1088
+          ],
+          [
+            711,
+            1326
+          ]
+        ],
+        "interior": []
+      },
+      "geometryType": "rectangle",
+      "shape": "rectangle"
+    }
+  ],
+  "customBigData": {}
+}
